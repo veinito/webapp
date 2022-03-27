@@ -1,6 +1,6 @@
 AWS_REGION = eu-central-1
 REPO = 550346457415.dkr.ecr.${AWS_REGION}.amazonaws.com/webapp
-TAG = 1
+TAG = 2
 
 
 build:
